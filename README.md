@@ -62,7 +62,7 @@ Age and Charges: The age of an individual is positively correlated with insuranc
 
 BMI Influence: Higher BMI values are associated with increased medical insurance charges. This suggests that maintaining a healthy weight can positively impact healthcare costs.
 
-Model Performance: We evaluated multiple regression models including Multiple Linear Regression, LassoCV, RidgeCV, ElasticNet, Random Forest Regressor, and Polynomial Regression. Among these, Polynomial Regression and Random Forest Regressor showed better performance in predicting medical insurance charges.
+Model Performance: We evaluated multiple regression models including Multiple Linear Regression, Random Forest Regressor. Among these, Random Forest Regressor showed better performance in predicting medical insurance charges.
 
 Polynomial Model Advantage: The Polynomial Regression model showed the lowest Mean Absolute Error, Mean Square Error, and Root Mean Square Error among all models, indicating its capability to better capture the underlying patterns in the data.
 
